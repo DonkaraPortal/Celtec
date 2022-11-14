@@ -1,2 +1,0 @@
-# Celtec
-Venta de celulares
